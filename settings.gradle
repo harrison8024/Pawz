@@ -1,0 +1,2 @@
+rootProject.name = "Pawz_2"
+include ':app'

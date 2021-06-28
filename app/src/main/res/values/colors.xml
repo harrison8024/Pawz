@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_soft">#F1FFD8</color>
+    <color name="purple_normal">#6374a4</color>
+    <color name="purple_soft">#e8e8fb</color>
+    <color name="purple_strong">#455c9b</color>
+    <color name="grey_purple">#444a5e</color>
+    <color name="brown_normal">#dbab84</color>
+    <color name="black_off">#040404</color>
+
+    <color name="colorPrimary">@color/purple_normal</color>
+    <color name="colorPrimaryLight">@color/purple_soft</color>
+    <color name="colorPrimaryDark">@color/purple_strong</color>
+    <color name="colorAccent">@color/purple_strong</color>
+    <color name="textColorPrimary">@color/black_off</color>
+    <color name="loginPageBackgroundColor">@color/green_soft</color>
+    <color name="productGridBackgroundColor">@color/purple_strong</color>
+</resources>

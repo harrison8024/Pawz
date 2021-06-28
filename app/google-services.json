@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969927065319",
+    "firebase_url": "https://pawz-57be9-default-rtdb.firebaseio.com",
+    "project_id": "pawz-57be9",
+    "storage_bucket": "pawz-57be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969927065319:android:e1fe49a9b34199f8b56c42",
+        "android_client_info": {
+          "package_name": "com.example.pawz_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969927065319-7ojgs5h4nddn9ddb7j7n22celor4vk86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdfdAqcD0zMNeCWrTMWBpFPR5W8WwT_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969927065319-7ojgs5h4nddn9ddb7j7n22celor4vk86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
